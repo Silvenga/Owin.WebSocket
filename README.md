@@ -1,6 +1,13 @@
 Owin.WebSocket
 ==============
 
+## TODO
+- [ ] Unit tests are not multi-thread compatible - Use Owin testing server.
+- [ ] Code cleanup.
+- [ ] CI support.
+
+-------------------
+
 An library for handling OWIN WebSocket connections
 
 [![Build status](https://ci.appveyor.com/api/projects/status/muxueaiirqenc859)](https://ci.appveyor.com/project/bryceg/owin-websocket)
