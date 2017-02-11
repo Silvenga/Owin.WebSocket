@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Owin.WebSocket.Fleck</id>
+        <version>1.6.0</version>
+        <title>Owin.WebSocket</title>
+        <authors>Bryce Godfrey, Tom DuPont</authors>
+        <owners>Silvenga</owners>
+        <projectUrl>https://github.com/Silvenga/Owin.WebSocket</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>WebSocket handler for OWIN using Fleck.</description>
+        <releaseNotes>Non-maintainer release forked from https://github.com/tdupont750/Owin.WebSocket.</releaseNotes>
+    </metadata>
+</package>
